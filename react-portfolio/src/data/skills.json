@@ -1,0 +1,38 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "API Integration",
+    "imageSrc": "skills/api.png"
+  },
+  {
+    "title": "Supabase",
+    "imageSrc": "skills/database.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "DevOps",
+    "imageSrc": "skills/devops.png"
+  },
+  {
+    "title": "Pair-Programming",
+    "imageSrc": "skills/pairprogramming.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Node.js",
+    "imageSrc": "skills/node.png"
+  }
+]

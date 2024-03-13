@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Associate Software Developer",
+    "organization": "SBC Ministries",
+    "startDate": "March, 2021",
+    "endDate": "Present",
+    "experiences": [
+      "Write and maintain code for software applications and websites.",
+      "Fix bugs and implement new features.",
+      "On the job training from a team of senior developers"
+    ]
+  },
+  {
+    "role": "Administrative Assistant",
+    "organization": "SBC Ministries",
+    "startDate": "August, 2020",
+    "endDate": "Present",
+    "experiences": [
+      "Oversee administrative tasks for multiple churches.",
+      "Manage construction projects.",
+      "Purchasing agent.",
+      "Run audio/video production for live-streams and podcasts.",
+      "Provide professional videography, video editing, and graphic design services."
+    ]
+  },
+  {
+    "role": "Infrastructure Maintenance Technician",
+    "organization": "City of Portland",
+    "startDate": "June, 2019",
+    "endDate": "August, 2020",
+    "experiences": [
+      "Build and maintain infrustructure for the City of Portland.",
+      "Operate commercial vehicles and heavy equipment.",
+      "Assist first responders in emergencies on roadways."
+    ]
+  },
+  {
+    "role": "Operations Manager",
+    "organization": "Northwestern Rebar",
+    "startDate": "October, 2017",
+    "endDate": "June, 2019",
+    "experiences": [
+      "Oversee the receiving, fabrication, and delivery of rebar.",
+      "Train and lead a team of rebar technicians",
+      "Operate commercial vehicles and heavy equipment."
+    ]
+  }
+]
