@@ -9,7 +9,7 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Dillon</h1>
         <p className={styles.description}>
           I am an associate software developer seeking more experience and
-          skills in the Computer Science and Software Development industry
+          skills in the Computer Science and Software Development industry.
         </p>
         <a href="mailto:dillonawes@gmail.com" className={styles.contactBtn}>
           Contact Me
