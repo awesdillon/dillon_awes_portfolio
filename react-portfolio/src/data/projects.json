@@ -11,7 +11,7 @@
     "title": "Today I Learned",
     "imageSrc": "projects/todayilearned.png",
     "description": "'Today I Learned' is a full stackfact-sharing app. This app uses the backend data base 'Supabase' to store user's posts, sources, and likes. This app is responsive to all devices and has sort-by-category functionality.",
-    "skills": ["React", "Redux", "HTML", "CSS", "Supabase", "API Integration"],
+    "skills": ["React", "CSS", "HTML", "Redux", "Supabase", "API Integration"],
     "demo": "https://todayilearned-dillonawes.netlify.app/",
     "source": "https://github.com/awesdillon/today-i-learned"
   },
