@@ -1,7 +1,7 @@
 [
   {
-    "title": "Shop Swift E-Commerce App",
-    "imageSrc": "../assets/projects/ShopSwift.png",
+    "title": "Shop Swift E-Commerce",
+    "imageSrc": "projects/ShopSwift.png",
     "description": "A React e-commerce site that dynamically updates product listings and cart contents, facilitating seamless browsing and shopping. This React app keeps front end inventory in sync with live updates from backend changes and stores user state during page navigation.",
     "skills": ["React", "CSS", "HTML", "API Integration"],
     "demo": "https://shopswiftecommercedillon.netlify.app/",
@@ -9,23 +9,23 @@
   },
   {
     "title": "Today I Learned",
-    "imageSrc": "../assets/projects/todayilearned/png",
-    "description": "Today I Learned is a full stack React fact-sharing app. This app uses the backend data base 'Supabase' to store user's posts, sources, and likes. This app is responsive to all devices and has sort-by-category functionality",
+    "imageSrc": "projects/todayilearned.png",
+    "description": "'Today I Learned' is a full stackfact-sharing app. This app uses the backend data base 'Supabase' to store user's posts, sources, and likes. This app is responsive to all devices and has sort-by-category functionality.",
     "skills": ["React", "Redux", "HTML", "CSS", "Supabase", "API Integration"],
     "demo": "https://todayilearned-dillonawes.netlify.app/",
     "source": "https://github.com/awesdillon/today-i-learned"
   },
   {
     "title": "Far Away Travel Packing Planner",
-    "imageSrc": "../assets/projects/travelplanner.png",
-    "description": "Convenient travel packing planner. This app has check-off functionality and uses organizational database to sort list by input order, description, or checked status.",
+    "imageSrc": "projects/travelplanner.png",
+    "description": "Don't forget anything at home by using this convenient travel packing planner! This app has check-off functionality and uses an organizational database to sort your packing list by input order, description, or checked status.",
     "skills": ["React", "CSS", "HTML", "API Integration"],
     "demo": "https://farawaytravelplanner.netlify.app/",
     "source": "https://github.com/awesdillon/travel-list"
   },
   {
     "title": "Fair Share Bill Splitter",
-    "imageSrc": "../assets/projects/billsplitter.png",
+    "imageSrc": "projects/billsplitter.png",
     "description": "React app that helps you split the tab with your friends! This app keeps track of transaction history to determine how much one user owes another over time. This project also showcases conditional rendering of forms based on user input.",
     "skills": ["React", "HTML", "CSS"],
     "demo": "https://fairsharedillon.netlify.app/",
